@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
+
 <a href="https://polar.sh/catalins-tech/donate">
  <picture>
    <source 
@@ -39,4 +39,3 @@ Here are some ideas to get you started:
    >
  </picture>
 </a>
--->
