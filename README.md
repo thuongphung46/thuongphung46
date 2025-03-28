@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Phung Hoai Thuong!
 # About me
 
-🔭 I’m currently working on [@documenso](https://github.com/documenso/documenso)
+🔭 I’m currently working on [@Apzon irs](https://irsvietnam.com/)
 
 🧰 Tech stack at work: `TypeScript`, `React/Next.js`, `PostgreSQL`, `TailwindCSS`, `Node.js` among others.
 
@@ -12,19 +12,17 @@
 📫 How to reach me: `me [@] thuongphung46 [dot] com`
 
 <!--
-**catalinpit/catalinpit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thuongphung46/thuongphung46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on: `Apzon irs`
+- 🌱 I’m currently learning: 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 <a href="https://polar.sh/catalins-tech/donate">
@@ -38,4 +36,4 @@ Here are some ideas to get you started:
      src="https://polar.sh/embed/tiers.svg?org=catalins-tech&label=Support%20Catalin%20Pit"
    >
  </picture>
-</a>
+</a>-->
